@@ -1,0 +1,9 @@
+streamlit>=1.30.0
+onnxruntime>=1.17.0
+numpy>=1.24.0
+pandas>=2.0.0
+pypdf>=4.0.0
+sentence-transformers>=2.2.0
+torch>=2.0.0
+# qai-hub is optional — install separately on Snapdragon X hardware:
+#   pip install qai-hub
